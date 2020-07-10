@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Kubernetes and Istio.
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him.
 - 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
 
 <!--
