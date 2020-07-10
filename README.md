@@ -1,4 +1,4 @@
-<img src="https://github.com/YouEclipse/YouEclipse/blob/master/mario.gif" width="50">
+<img src="https://github.com/YouEclipse/YouEclipse/blob/master/mario.gif" width="100">
 
 ### Hi there 👋
 
