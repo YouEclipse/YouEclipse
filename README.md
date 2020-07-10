@@ -7,7 +7,7 @@
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
 - 😄 Pronouns: He/him
-- 🎮 A Nintendo fans and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
+- 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
 
 <!--
 **YouEclipse/YouEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
