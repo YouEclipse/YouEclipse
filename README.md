@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/macOS-catalina-d0d1d4)
 ![](https://img.shields.io/badge/Ubuntu-19.10-db4923)
-![](https://img.shields.io/badge/IDE-Visual%20Studo%20Code-blue)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)
 ![](https://img.shields.io/badge/Go-1.14.4-1cadd5)
 
 - 🔭 I’m currently working on [KLOOK](https://www.klook.com) as a backend engineer.
