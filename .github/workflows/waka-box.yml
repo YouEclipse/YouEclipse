@@ -31,7 +31,7 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run waka-box
         run: |-
-          git clone github.com/YouEclipse/waka-box-go /tmp/waka-box-go
+          git clone https://github.com/YouEclipse/waka-box-go.git /tmp/waka-box-go
           go build /tmp/cmd/box/main.go -o waka
           ./tmp/waka
 
