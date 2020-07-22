@@ -11,8 +11,23 @@
 - 🌱 I’m currently learning Kubernetes and Istio.
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
-- 😄 Pronouns: He/him.
 - 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
+</td>
+</tr>
+</table>
 
 <!--
 **YouEclipse/YouEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
