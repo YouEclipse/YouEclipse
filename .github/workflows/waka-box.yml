@@ -31,14 +31,12 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - uses: actions/setup-go@v2
-      - name: Clone and run waka-box
+      - name: update and push
         run: |-
           git clone https://github.com/YouEclipse/waka-box-go.git 
           cd waka-box-go && go build -o waka ./cmd/box/main.go
           ./waka && cd .. && rm -rf waka-box-go/
-      - name: Commit and push
-        run: |-
           git config --global user.email "bot@github.com" && git config --global user.name "Bot"
           git diff
-          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git add README.md  && git commit -m ":memo: update profile" || exit 0
           git push
