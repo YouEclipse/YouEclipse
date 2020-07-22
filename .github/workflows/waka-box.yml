@@ -41,5 +41,5 @@ jobs:
         run: |-
           git config --global user.email "bot@github.com" && git config --global user.name "Bot"
           git diff
-          git add {{env.MARKDOWN_FILE}} && git commit -m ":memo: update profile" || exit 0
+          git add README.md && git commit -m ":memo: update profile" || exit 0
           git push
