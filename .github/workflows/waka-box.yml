@@ -35,7 +35,7 @@ jobs:
         run: |-
           git clone https://github.com/YouEclipse/waka-box-go.git 
           cd waka-box-go && go build -o waka ./cmd/box/main.go
-          ./waka
+          ./waka && cd .. && rm -rf waka-box-go/
 
       - name: Commit and push
         run: |-
