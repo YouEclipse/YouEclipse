@@ -10,30 +10,34 @@ on:
 
 jobs:
   build:
-    name: Update-profile-readme
+    name: Update-gist
     runs-on: ubuntu-latest
     env:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      UPDATE_OPTION: GIST_AND_MARKDOWN
-      MARKDOWN_FILD: README.md
       GIST_ID: 9bc7025496e478f439b9cd43eba989a4
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
 
-  steps:
-    - name: Check out repo
-      uses: actions/checkout@v2
-    - uses: actions/setup-go@v2
-    - name: clone and run waka-box
-      run: |-
-        git clone github.com/YouEclipse/waka-box-go
-        cd waka-box-go && go run ./cmd/box/main.go
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.14
+        id: go
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+      - name: Clone and run waka-box
+        run: |-
+          git clone github.com/YouEclipse/waka-box-go /tmp/waka-box-go
+          go build /tmp/cmd/box/main.go -o waka
+          ./tmp/waka
 
-    - name: Commit and push
-      run: |-
-        git config --global user.email "bot@github.com" && git config --global user.name "Bot"
-        git diff
-        git add . && git commit -m ":memo: update profile" || exit 0
-        git push
+      - name: Commit and push
+        run: |-
+          git config --global user.email "bot@github.com" && git config --global user.name "Bot"
+          git diff
+          git add . && git commit -m ":memo: update profile" || exit 0
+          git push
