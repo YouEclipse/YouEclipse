@@ -35,12 +35,12 @@ jobs:
         run: |-
           git clone https://github.com/YouEclipse/waka-box-go.git 
           cd waka-box-go && go build -o waka ./cmd/box/main.go
-          mv ./waka /tmp/ && rm -rf waka-box-go/
-          pwd
+          mv ./waka /tmp/ && cd .. && rm -rf waka-box-go/
 
       - name: Commit and push
         run: |-
           pwd
+          ./tmp/waka
           git config --global user.email "bot@github.com" && git config --global user.name "Bot"
           git diff
           git add . && git commit -m ":memo: update profile" || exit 0
