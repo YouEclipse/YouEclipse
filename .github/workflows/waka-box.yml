@@ -39,7 +39,6 @@ jobs:
 
       - name: Commit and push
         run: |-
-          pwd
           ./waka
           git config --global user.email "bot@github.com" && git config --global user.name "Bot"
           git diff
