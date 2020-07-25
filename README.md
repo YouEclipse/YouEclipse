@@ -18,16 +18,6 @@
 <td valign="top" width="50%">
 
 <!-- waka-box start -->
-#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
-```text
-
-Go              🕓 23h45m ████████████████▉░░░░░ 77.2%
-YAML            🕓 2h28m  █▊░░░░░░░░░░░░░░░░░░░░  8.0%
-Markdown        🕓 2h21m  █▋░░░░░░░░░░░░░░░░░░░░  7.7%
-Other           🕓 51m    ▌░░░░░░░░░░░░░░░░░░░░░  2.8%
-JavaScript      🕓 24m    ▎░░░░░░░░░░░░░░░░░░░░░  1.4%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
@@ -36,16 +26,6 @@ JavaScript      🕓 24m    ▎░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-
-🔫 Counter-Strike: Global Offensive  🕘 1546 hrs 25 mins
-🚓 Grand Theft Auto V                🕘 52 hrs 15 mins
-💻 Wallpaper Engine                  🕘 39 hrs 59 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS     🕘 34 hrs 40 mins
-🌏 Sid Meier's Civilization V        🕘 11 hrs 9 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 [powered by steam-box](https://github.com/YouEclipse/steam-box)
