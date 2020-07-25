@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "0 0/1 * * *"
+    - cron: "10 * * * *"
 
 jobs:
   build:
@@ -17,6 +17,8 @@ jobs:
       GIST_ID: 8bf56353bcb3a8e798b55b546b9619cf
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
+      UPDATE_OPTION: GIST_AND_MARKDOWN
+      MARKDOWN_FILE: README.md
 
     steps:
       - name: Set up Go 1.x
