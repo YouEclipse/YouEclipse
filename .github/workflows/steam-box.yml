@@ -41,4 +41,4 @@ jobs:
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git push
+          git pull && git push
