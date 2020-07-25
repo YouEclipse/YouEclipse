@@ -36,9 +36,9 @@ JavaScript      🕓 24m    ▎░░░░░░░░░░░░░░░░�
 <td valign="top" width="50%">
 
 <!-- steam-box start -->
-####  <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/d3798a7bc234087e75aed5716474f42a" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Steam playtime leaderboard
+
 🔫 Counter-Strike: Global Offensive  🕘 1546 hrs 25 mins
 🚓 Grand Theft Auto V                🕘 52 hrs 15 mins
 💻 Wallpaper Engine                  🕘 39 hrs 59 mins
