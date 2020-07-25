@@ -44,3 +44,4 @@ jobs:
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git push
+          
