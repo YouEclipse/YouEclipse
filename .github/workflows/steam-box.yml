@@ -1,0 +1,42 @@
+name: Update steam playtime
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+  schedule:
+    - cron: "0 0/1 * * *"
+
+jobs:
+  build:
+    name: Update-steam-playtime
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GIST_ID: 8bf56353bcb3a8e798b55b546b9619cf
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+      STEAM_ID: ${{ secrets.STEAM_ID }}
+
+    steps:
+      - name: Set up Go 1.x
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.14
+        id: go
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+      - name: Clone and run steam-box
+        run: |-
+          git clone https://github.com/YouEclipse/steam-box.git 
+          cd steam-box && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box/
+
+      - name: Commit and push
+        run: |-
+          ./steam
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git push
