@@ -4,7 +4,7 @@
 
 #### About me
 
-- 🔭 I’m currently working on [KLOOK](https://www.klook.com) as a backend engineer.
+- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a backend engineer.
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
