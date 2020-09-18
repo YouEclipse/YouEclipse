@@ -52,7 +52,7 @@ Markdown   🕓 3m    ▏░░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1546 hrs 25 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-💻 Wallpaper Engine                 🕘 40 hrs 0 mins
+💻 Wallpaper Engine                 🕘 40 hrs 30 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
 🌏 Sid Meier's Civilization V       🕘 11 hrs 9 mins
 ```
