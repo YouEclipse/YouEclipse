@@ -33,11 +33,7 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Go                       🕓 1h13m ███████▋░░░░░░ 54.9%
-Smarty                   🕓 29m   ███░░░░░░░░░░░ 21.8%
-HTML                     🕓 27m   ██▉░░░░░░░░░░░ 20.8%
-Other                    🕓 1m    ▏░░░░░░░░░░░░░  1.4%
-Nginx configuration file 🕓 1m    ▏░░░░░░░░░░░░░  1.2%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
