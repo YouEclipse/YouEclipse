@@ -50,7 +50,7 @@ Still Gathering Statistics...
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
 💻 Wallpaper Engine                 🕘 41 hrs 32 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
-🎮 Apex Legends                     🕘 32 hrs 27 mins
+🎮 Apex Legends                     🕘 33 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
