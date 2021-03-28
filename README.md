@@ -48,7 +48,7 @@ Still Gathering Statistics...
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-🎮 Apex Legends                     🕘 42 hrs 2 mins
+🎮 Apex Legends                     🕘 42 hrs 49 mins
 💻 Wallpaper Engine                 🕘 41 hrs 32 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
 ```
