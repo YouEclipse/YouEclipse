@@ -52,7 +52,7 @@ INI        🕓 33m   █▋░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-🎮 Apex Legends                     🕘 44 hrs 44 mins
+🎮 Apex Legends                     🕘 45 hrs 45 mins
 💻 Wallpaper Engine                 🕘 41 hrs 32 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
 ```
