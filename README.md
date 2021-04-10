@@ -52,7 +52,7 @@ Bash          🕓 55m    █░░░░░░░░░░░░░░░░░
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-🎮 Apex Legends                     🕘 50 hrs 5 mins
+🎮 Apex Legends                     🕘 50 hrs 59 mins
 💻 Wallpaper Engine                 🕘 41 hrs 32 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
 ```
