@@ -51,7 +51,7 @@ JSON     🕓 17m   ▍░░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
-🎮 Apex Legends                     🕘 175 hrs 18 mins
+🎮 Apex Legends                     🕘 175 hrs 33 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
 💻 Wallpaper Engine                 🕘 41 hrs 32 mins
 🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 34 hrs 40 mins
