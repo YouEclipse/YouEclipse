@@ -51,7 +51,7 @@ PHP             🕓 30m   ▊░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
-🎮 Apex Legends                     🕘 193 hrs 0 mins
+🎮 Apex Legends                     🕘 193 hrs 16 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
 💻 Wallpaper Engine                 🕘 43 hrs 20 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
