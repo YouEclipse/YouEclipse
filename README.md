@@ -53,7 +53,7 @@ Docker          🕓 17m    ▎░░░░░░░░░░░░░░░░�
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🎮 Apex Legends                     🕘 195 hrs 56 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
-💻 Wallpaper Engine                 🕘 43 hrs 20 mins
+💻 Wallpaper Engine                 🕘 43 hrs 44 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
