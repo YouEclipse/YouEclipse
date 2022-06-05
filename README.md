@@ -52,7 +52,7 @@ JSON            🕓 1h13m █▊░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🎮 Apex Legends                     🕘 198 hrs 7 mins
-💻 Wallpaper Engine                 🕘 68 hrs 34 mins
+💻 Wallpaper Engine                 🕘 69 hrs 34 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
 ```
