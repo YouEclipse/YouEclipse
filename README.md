@@ -52,7 +52,7 @@ Protocol Buffer 🕓 14m   ▎░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🎮 Apex Legends                     🕘 198 hrs 7 mins
-💻 Wallpaper Engine                 🕘 107 hrs 19 mins
+💻 Wallpaper Engine                 🕘 108 hrs 20 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
 ```
