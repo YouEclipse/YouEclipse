@@ -52,7 +52,7 @@ CSV             🕓 7m     ░░░░░░░░░░░░░░░░░�
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 1548 hrs 17 mins
 🎮 Apex Legends                     🕘 203 hrs 44 mins
-💻 Wallpaper Engine                 🕘 110 hrs 16 mins
+💻 Wallpaper Engine                 🕘 110 hrs 47 mins
 🚓 Grand Theft Auto V               🕘 52 hrs 15 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 34 hrs 40 mins
 ```
